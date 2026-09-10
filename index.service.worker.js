@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1789007137|3648659';
+const CACHE_VERSION = '1789007287|3726213';
 /** @type {string} */
 const CACHE_PREFIX = 'Ashen Idle-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
